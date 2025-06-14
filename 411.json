@@ -1,11 +1,11 @@
 {
   "spider": "./fty.jar",
-  "warningText": "¡¾ÀÏÀîÓ°ÊÓ¡¿»áÔ±×¨Ïí£¬Ã¿´Î´ò¿ª¼ÇµÃ³¤°´Ö÷Ò³Ë¢ĞÂ£¡",
+  "warningText": "ã€æŒºå¥½åˆ†äº«ã€‘æ¥å£å…è´¹ï¼Œæ¯æ¬¡æ‰“å¼€è®°å¾—é•¿æŒ‰ä¸»é¡µåˆ·æ–°ï¼",
   "logo": "http://ztha.top/picture/lmtu1.jpg",
   "sites": [
     {
-      "key": "¶¹¶¹¶¹",
-      "name": "ÂòºĞ×ÓÕÒÀÏÀî",
+      "key": "è±†è±†è±†",
+      "name": "å…¬ä¼—å·[æŒºå¥½åˆ†äº«]",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -14,8 +14,8 @@
       "filterable": 0
     },
     {
-      "key": "ÍæÅ¼",
-      "name": "??TH©§ÍæÅ¼©§4Kµ¯Ä»",
+      "key": "ç©å¶",
+      "name": "ğŸ‘½THâ”ƒç©å¶â”ƒ4Kå¼¹å¹•",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -25,23 +25,23 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.net/",
-        "danMu": "µ¯"
+        "danMu": "å¼¹"
       }
     },
     {
        "key": "csp_XBPQ_6V",
-       "name": "??TH©§Í¦ºÃ©§4K",
+       "name": "ğŸŒTHâ”ƒæŒºå¥½â”ƒ4K",
        "type": 3,
        "api": "csp_XBPQ",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "ext":"./BFWJ/jss/Í¦ºÃ4K.json",
+       "ext":"./BFWJ/jss/æŒºå¥½4K.json",
        "jar":"./BFWJ/jar/0606.jar"
      },
          {
-      "key": "Ô­´´",
-      "name": "?TH©§Ô­´´©§²»¿¨",
+      "key": "åŸåˆ›",
+      "name": "â˜€THâ”ƒåŸåˆ›â”ƒä¸å¡",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -51,8 +51,8 @@
       "changeable": 1
     },
     {
-      "key": "Æ»¹û",
-      "name": "??TH©§Æ»¹û©§²»¿¨",
+      "key": "è‹¹æœ",
+      "name": "ğŸTHâ”ƒè‹¹æœâ”ƒä¸å¡",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -60,8 +60,8 @@
       "changeable": 1
     },
     {
-      "key": "³§³¤",
-      "name": "??TH©§³§³¤©§²»¿¨",
+      "key": "å‚é•¿",
+      "name": "ğŸ“”THâ”ƒå‚é•¿â”ƒä¸å¡",
       "type": 3,
       "api": "csp_NewCz",
       "playerType": 2,
@@ -71,8 +71,8 @@
       "ext": "https://www.czzyvideo.com/"
     },
     {
-      "key": "Å´Ã×",
-      "name": "??TH©§Å´Ã×©§Ãë²¥",
+      "key": "ç³¯ç±³",
+      "name": "ğŸ“THâ”ƒç³¯ç±³â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_Nmyswv",
       "searchable": 1,
@@ -80,8 +80,8 @@
       "changeable": 1
     },
     {
-      "key": "°×°×",
-      "name": "??TH©§°×°×©§Ãë²¥",
+      "key": "ç™½ç™½",
+      "name": "ğŸŸTHâ”ƒç™½ç™½â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_Sbaibai",
       "playerType": 2,
@@ -90,8 +90,8 @@
       "changeable": 1
     },
     {
-      "key": "Éñ³µ",
-      "name": "??TH©§Éñ³µ©§Ãë²¥",
+      "key": "ç¥è½¦",
+      "name": "ğŸšTHâ”ƒç¥è½¦â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_AppSx",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "Lib",
-      "name": "??TH©§Á¢²¥©§Ãë²¥",
+      "name": "ğŸŒŸTHâ”ƒç«‹æ’­â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -114,7 +114,7 @@
     },
     {
       "key": "zxzj",
-      "name": "??TH©§ÔÚÏß©§Ãë²¥",
+      "name": "ğŸŠTHâ”ƒåœ¨çº¿â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -124,8 +124,8 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "±ÈÌØ",
-      "name": "??TH©§±ÈÌØ©§Ãë²¥",
+      "key": "æ¯”ç‰¹",
+      "name": "ğŸ„THâ”ƒæ¯”ç‰¹â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -133,8 +133,8 @@
       "changeable": 1
     },
     {
-      "key": "ÎÄ²É",
-      "name": "??TH©§ÎÄ²É©§Ãë²¥",
+      "key": "æ–‡é‡‡",
+      "name": "ğŸ’®THâ”ƒæ–‡é‡‡â”ƒç§’æ’­",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -143,8 +143,8 @@
       "changeable": 1
     },
     {
-      "key": "µÍ¶Ë",
-      "name": "??TH©§µÍ¶Ë©§Íâ¾ç",
+      "key": "ä½ç«¯",
+      "name": "â®ï¸THâ”ƒä½ç«¯â”ƒå¤–å‰§",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -153,8 +153,8 @@
       "changeable": 1
     },
     {
-      "key": "¸ÛÃÔ",
-      "name": "??TH©§¸ÛÃÔ©§ÔÁÓï",
+      "key": "æ¸¯è¿·",
+      "name": "ğŸ’¯THâ”ƒæ¸¯è¿·â”ƒç²¤è¯­",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -163,8 +163,8 @@
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
     },
     {
-      "key": "Ä¾ĞÇ",
-      "name": "??TH©§Ä¾ĞÇ©§¶àÏß",
+      "key": "æœ¨æ˜Ÿ",
+      "name": "ğŸŒTHâ”ƒæœ¨æ˜Ÿâ”ƒå¤šçº¿",
       "type": 3,
       "api": "csp_AppSx",
       "searchable": 1,
@@ -173,8 +173,8 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
     },
     {
-      "key": "ĞÖµÜ",
-      "name": "??TH©§ĞÖµÜ©§¶àÏß",
+      "key": "å…„å¼Ÿ",
+      "name": "ğŸŠTHâ”ƒå…„å¼Ÿâ”ƒå¤šçº¿",
       "type": 3,
       "api": "csp_AppSx",
       "searchable": 1,
@@ -183,8 +183,8 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="
     },
     {
-      "key": "ÈÈ²¥",
-      "name": "??TH©§ÈÈ²¥©§¶àÏß",
+      "key": "çƒ­æ’­",
+      "name": "ğŸ“ºTHâ”ƒçƒ­æ’­â”ƒå¤šçº¿",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -194,8 +194,8 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-      "key": "ÃÈÃ×",
-      "name": "??TH©§ÃÈÃ×©§¶àÏß",
+      "key": "èŒç±³",
+      "name": "ğŸ‘€THâ”ƒèŒç±³â”ƒå¤šçº¿",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -205,8 +205,8 @@
       "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
     },
     {
-      "key": "»¶ÊÓ",
-      "name": "??TH©§»¶ÊÓ©§¶àÏß",
+      "key": "æ¬¢è§†",
+      "name": "ğŸ‘“THâ”ƒæ¬¢è§†â”ƒå¤šçº¿",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -216,8 +216,8 @@
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     {
-      "key": "¿É¿É",
-      "name": "??TH©§¿É¿É©§¶àÏß",
+      "key": "å¯å¯",
+      "name": "ğŸ‘»THâ”ƒå¯å¯â”ƒå¤šçº¿",
       "type": 3,
       "api": "csp_Kekys",
       "playerType": 2,
@@ -226,8 +226,8 @@
       "changeable": 1
     },
     {
-      "key": "¼ú¼ú",
-      "name": "??TH©§¼öÆ¬©§P2P",
+      "key": "è´±è´±",
+      "name": "ğŸ­THâ”ƒèç‰‡â”ƒP2P",
       "type": 3,
       "api": "csp_JPJ",
       "playerType": 2,
@@ -236,8 +236,8 @@
       "changeable": 0
     },
     {
-      "key": "ĞÂ6V",
-      "name": "??TH©§ĞÂ6V©§´ÅÁ¦",
+      "key": "æ–°6V",
+      "name": "ğŸ§²THâ”ƒæ–°6Vâ”ƒç£åŠ›",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -246,92 +246,92 @@
       "ext": "https://www.xb6v.com/"
     },
       {
-      "key": "360×ÊÔ´",
-      "name": "??TH©§360×ÊÔ´©§²É¼¯",
+      "key": "360èµ„æº",
+      "name": "ğŸ§²THâ”ƒ360èµ„æºâ”ƒé‡‡é›†",
       "type": 1,
       "api": "https://360zy.com/api.php/seaxml/vod/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "¹ú²ú¶¯Âş",
-        "ÈÕº«¶¯Âş",
-        "¹ú²ú¾ç",
-        "º«¹ú¾ç",
-        "ÈÕ±¾¾ç",
-        "µçÓ°Æ¬",
-        "Á¬Ğø¾ç",
-        "×ÛÒÕÆ¬",
-        "¶¯ÂşÆ¬",
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "Ïã¸Û¾ç",
-        "Å·ÃÀ¾ç",
-        "¼ÇÂ¼Æ¬",
-        "Ì¨Íå¾ç",
-        "º£Íâ¾ç",
-        "Ì©¹ú¾ç",
-        "´óÂ½×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "Å·ÃÀ¶¯Âş",
-        "¸ÛÌ¨¶¯Âş",
-        "º£Íâ¶¯Âş"
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "å›½äº§å‰§",
+        "éŸ©å›½å‰§",
+        "æ—¥æœ¬å‰§",
+        "ç”µå½±ç‰‡",
+        "è¿ç»­å‰§",
+        "ç»¼è‰ºç‰‡",
+        "åŠ¨æ¼«ç‰‡",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "é¦™æ¸¯å‰§",
+        "æ¬§ç¾å‰§",
+        "è®°å½•ç‰‡",
+        "å°æ¹¾å‰§",
+        "æµ·å¤–å‰§",
+        "æ³°å›½å‰§",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æµ·å¤–åŠ¨æ¼«"
       ]
     },
     {
-      "key": "Á¿×Ó",
-      "name": "??TH©§Á¿×Ó©§²É¼¯",
+      "key": "é‡å­",
+      "name": "ğŸ§²THâ”ƒé‡å­â”ƒé‡‡é›†",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "¹ú²ú¶¯Âş",
-        "ÈÕº«¶¯Âş",
-        "¹ú²ú¾ç",
-        "º«¹ú¾ç",
-        "ÈÕ±¾¾ç",
-        "µçÓ°Æ¬",
-        "Á¬Ğø¾ç",
-        "×ÛÒÕÆ¬",
-        "¶¯ÂşÆ¬",
-        "¶¯×÷Æ¬",
-        "Ï²¾çÆ¬",
-        "°®ÇéÆ¬",
-        "¿Æ»ÃÆ¬",
-        "¿Ö²ÀÆ¬",
-        "¾çÇéÆ¬",
-        "Õ½ÕùÆ¬",
-        "Ì¨Íå¾ç",
-        "Ïã¸Û¾ç",
-        "Å·ÃÀ¾ç",
-        "¼ÇÂ¼Æ¬",
-        "º£Íâ¾ç",
-        "Ì©¹ú¾ç",
-        "´óÂ½×ÛÒÕ",
-        "¸ÛÌ¨×ÛÒÕ",
-        "ÈÕº«×ÛÒÕ",
-        "Å·ÃÀ×ÛÒÕ",
-        "Å·ÃÀ¶¯Âş",
-        "¸ÛÌ¨¶¯Âş",
-        "º£Íâ¶¯Âş",
-        "ÌåÓı",
-        "×ãÇò",
-        "ÀºÇò",
-        "ÍøÇò",
-        "Ë¹Åµ¿Ë"
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "å›½äº§å‰§",
+        "éŸ©å›½å‰§",
+        "æ—¥æœ¬å‰§",
+        "ç”µå½±ç‰‡",
+        "è¿ç»­å‰§",
+        "ç»¼è‰ºç‰‡",
+        "åŠ¨æ¼«ç‰‡",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "å°æ¹¾å‰§",
+        "é¦™æ¸¯å‰§",
+        "æ¬§ç¾å‰§",
+        "è®°å½•ç‰‡",
+        "æµ·å¤–å‰§",
+        "æ³°å›½å‰§",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æµ·å¤–åŠ¨æ¼«",
+        "ä½“è‚²",
+        "è¶³çƒ",
+        "ç¯®çƒ",
+        "ç½‘çƒ",
+        "æ–¯è¯ºå…‹"
       ]
     },
     
     {
       "key": "Dm84",
-      "name": "??TH©§°ÍÊ¿©§¶¯Âş",
+      "name": "ğŸšŒTHâ”ƒå·´å£«â”ƒåŠ¨æ¼«",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -340,7 +340,7 @@
     },
     {
       "key": "Ysj",
-      "name": "??TH©§Òì½ç©§¶¯Âş",
+      "name": "ğŸ€THâ”ƒå¼‚ç•Œâ”ƒåŠ¨æ¼«",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -349,7 +349,7 @@
     },
     {
       "key": "Anime1",
-      "name": "??TH©§ÈÕ±¾©§¶¯Âş",
+      "name": "ğŸ¾THâ”ƒæ—¥æœ¬â”ƒåŠ¨æ¼«",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -357,8 +357,8 @@
       "changeable": 1
     },
         {
-      "key": "¿ÙËÑ",
-      "name": "??TH©§¿Ù¿Ù©§ËÑËÑ",
+      "key": "æŠ æœ",
+      "name": "ğŸ„THâ”ƒæŠ æŠ â”ƒæœæœ",
       "type": 3,
       "api": "csp_KkSs",
       "searchable": 1,
@@ -371,7 +371,7 @@
     },
     {
       "key": "UC",
-      "name": "??TH©§ÓÅÏ«©§ËÑËÑ",
+      "name": "ğŸŒˆTHâ”ƒä¼˜æ±â”ƒæœæœ",
       "type": 3,
       "api": "csp_UuSs",
       "searchable": 1,
@@ -384,21 +384,21 @@
       }
     },
     {
-      "key": "drpy_js_Á¿×Ó×ÊÔ´",
-      "name": "??TH©§Á¿×ÓÓ°ÊÓ",
+      "key": "drpy_js_é‡å­èµ„æº",
+      "name": "ğŸ“›THâ”ƒé‡å­å½±è§†",
       "type": 3,
       "api": "http://ztha.top/catjs/JS/lib/drpy2.min.js",
-      "ext": "http://ztha.top/catjs/JS/js/Á¿×Ó×ÊÔ´.js"
+      "ext": "http://ztha.top/catjs/JS/js/é‡å­èµ„æº.js"
     },
     {
-      "key": "Ë÷Äá",
-      "name": "??TH©§Ë÷ÄáÓ°ÊÓ",
+      "key": "ç´¢å°¼",
+      "name": "ğŸ“›THâ”ƒç´¢å°¼å½±è§†",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod"
     },
     {
       "key": "csp_Dm841",
-      "name": "??TH©§¶¯Âş°ÍÊ¿",
+      "name": "ğŸšŒTHâ”ƒåŠ¨æ¼«å·´å£«",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -407,7 +407,7 @@
     },
 {
       "key": "Aid",
-      "name": "??TH©§¼±¾È½ÌÑ§",
+      "name": "ğŸš‘THâ”ƒæ€¥æ•‘æ•™å­¦",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -418,10 +418,10 @@
         "ratio": 3.8
       }
     },
-//ÍøÅÌ×ÊÔ´
+//ç½‘ç›˜èµ„æº
         {
-      "key": "Ã×ËÑ",
-      "name": "??TH©§Ã×ÅÌ©§ËÑËÑ",
+      "key": "ç±³æœ",
+      "name": "ğŸ¦‹THâ”ƒç±³ç›˜â”ƒæœæœ",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -433,8 +433,8 @@
       }
     },
     {
-      "key": "¿ÙËÑ",
-      "name": "??TH©§¿Ù¿Ù©§ËÑËÑ",
+      "key": "æŠ æœ",
+      "name": "ğŸ„THâ”ƒæŠ æŠ â”ƒæœæœ",
       "type": 3,
       "api": "csp_KkSs",
       "searchable": 1,
@@ -447,7 +447,7 @@
     },
    {
       "key": "Sso",
-      "name": "??TH©§ÅÌËû©§ÈıÅÌ",
+      "name": "ğŸŒTHâ”ƒç›˜ä»–â”ƒä¸‰ç›˜",
       "type": 3,
       "api": "csp_PanSso",
       "searchable": 1,
@@ -459,8 +459,8 @@
       }
     },
     {
-      "key": "¿äËÑ",
-      "name": "??TH©§¿äËÑ©§Àê¿ä",
+      "key": "å¤¸æœ",
+      "name": "ğŸŸTHâ”ƒå¤¸æœâ”ƒç‹¸å¤¸",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -474,7 +474,7 @@
     },
     {
       "key": "YiSo",
-      "name": "??TH©§Ò×ËÑ©§°¢Àê",
+      "name": "ğŸ˜¹THâ”ƒæ˜“æœâ”ƒé˜¿ç‹¸",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -487,7 +487,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "??TH©§ÅÌSe©§°¢Àê",
+      "name": "ğŸ™€THâ”ƒç›˜Seâ”ƒé˜¿ç‹¸",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -500,7 +500,7 @@
     },
     {
       "key": "UC",
-      "name": "??TH©§ÓÅÏ«©§ËÑËÑ",
+      "name": "ğŸŒˆTHâ”ƒä¼˜æ±â”ƒæœæœ",
       "type": 3,
       "api": "csp_UuSs",
       "searchable": 1,
@@ -511,13 +511,13 @@
         "from": "4k|auto"
       }
     },
-//ÆäËû×ÊÔ´
+//å…¶ä»–èµ„æº
         {
-      "key": "¿áÆæ",
-      "name": "??¿áÆæ©§MV",
+      "key": "é…·å¥‡",
+      "name": "ğŸ¤é…·å¥‡â”ƒMV",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/¿áÆæMV.js",
+      "ext": "./lib/é…·å¥‡MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -528,7 +528,7 @@
     },
     {
       "key": "MTV",
-      "name": "??Ã÷ĞÇ©§MV",
+      "name": "ğŸ§æ˜æ˜Ÿâ”ƒMV",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -543,11 +543,11 @@
       }
     },
         {
-      "key": "ÓĞÉùĞ¡Ëµjs",
-      "name": "??ÓĞÉù©§Ğ¡Ëµ",
+      "key": "æœ‰å£°å°è¯´js",
+      "name": "ğŸ§æœ‰å£°â”ƒå°è¯´",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/ÓĞÉùĞ¡Ëµ°É.js",
+      "ext": "./lib/æœ‰å£°å°è¯´å§.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -556,10 +556,10 @@
       "quickSearch": 0,
       "changeable": 0
     },
-//Ö±²¥×ÊÔ´
+//ç›´æ’­èµ„æº
         {
       "key": "alllive",
-      "name": "???Ò»Ö±²¥©§LIVE",
+      "name": "ğŸ“½ï¸ä¸€ç›´æ’­â”ƒLIVE",
       "type": 3,
       "api": "csp_Alllive",
       "playerType": 2,
@@ -568,8 +568,8 @@
       "changeable": 0
     },
         {
-      "key": "926¿´Çò",
-      "name": "?926©§¿´Çò",
+      "key": "926çœ‹çƒ",
+      "name": "âš½926â”ƒçœ‹çƒ",
       "type": 3,
       "api": "csp_kanqiu926",
       "searchable": 0,
@@ -580,10 +580,10 @@
     },
     {
       "key": "88js",
-      "name": "? 88©§¿´Çò",
+      "name": "âš½ 88â”ƒçœ‹çƒ",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88¿´Çò.js",
+      "ext": "./lib/88çœ‹çƒ.js",
       "style": {
         "type": "list"
       },
@@ -593,10 +593,10 @@
     },
     {
       "key": "310js",
-      "name": "? 310©§¿´Çò",
+      "name": "âš½ 310â”ƒçœ‹çƒ",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310Ö±²¥.js",
+      "ext": "./lib/310ç›´æ’­.js",
       "style": {
         "type": "list"
       },
@@ -606,7 +606,7 @@
     },
     {
       "key": "Jrsjs",
-      "name": "? Jrs©§ÇòÃÔ",
+      "name": "âš½ Jrsâ”ƒçƒè¿·",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jrk.js",
@@ -618,8 +618,8 @@
       "changeable": 0
     },
     {
-      "key": "»¢ÑÀÖ±²¥js",
-      "name": "??»¢ÑÀ©§Ö±²¥",
+      "key": "è™ç‰™ç›´æ’­js",
+      "name": "ğŸ¯è™ç‰™â”ƒç›´æ’­",
       "type": 3,
       "api": "./lib/drpy2.js",
       "ext": "./lib/huya2.js",
@@ -633,11 +633,11 @@
       "changeable": 0
     },
     {
-      "key": "¶·Óãjs",
-      "name": "??¶·Óã©§Ö±²¥",
+      "key": "æ–—é±¼js",
+      "name": "ğŸŸæ–—é±¼â”ƒç›´æ’­",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/¶·ÓãÖ±²¥.js",
+      "ext": "./lib/æ–—é±¼ç›´æ’­.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -649,7 +649,7 @@
     },
       {
       "key": "Bili",
-      "name": "??ßÙßÙºÏ¼¯©§µ¯Ä»",
+      "name": "ğŸ…±å“”å“”åˆé›†â”ƒå¼¹å¹•",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -665,7 +665,7 @@
     },
     {
       "key": "Biliych",
-      "name": "??Ã÷ĞÇÑİ³ª»á©§µ¯Ä»",
+      "name": "ğŸ…±æ˜æ˜Ÿæ¼”å”±ä¼šâ”ƒå¼¹å¹•",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -679,13 +679,13 @@
         "json": "./lib/biliych.json"
       }
     },
-//½ÌÓı×ÊÔ´
+//æ•™è‚²èµ„æº
     {
-      "key": "dr_ÍÃĞ¡±´",
-      "name": "??¶ùÍ¯©§ÆôÃÉ",
+      "key": "dr_å…”å°è´",
+      "name": "ğŸ“šå„¿ç«¥â”ƒå¯è’™",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/ÍÃĞ¡±´.js",
+      "ext": "./lib/å…”å°è´.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -695,8 +695,8 @@
       "changeable": 0
     },
     {
-      "key": "ÉÙ¶ù½ÌÓı",
-      "name": "??ÉÙ¶ù©§½ÌÓı",
+      "key": "å°‘å„¿æ•™è‚²",
+      "name": "ğŸ“šå°‘å„¿â”ƒæ•™è‚²",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -707,12 +707,12 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/ÉÙ¶ù½ÌÓı.json"
+        "json": "./lib/å°‘å„¿æ•™è‚².json"
       }
     },
     {
-      "key": "Ğ¡Ñ§¿ÎÌÃ",
-      "name": "??Ğ¡Ñ§©§¿ÎÌÃ",
+      "key": "å°å­¦è¯¾å ‚",
+      "name": "ğŸ“šå°å­¦â”ƒè¯¾å ‚",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -723,12 +723,12 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/Ğ¡Ñ§¿ÎÌÃ.json"
+        "json": "./lib/å°å­¦è¯¾å ‚.json"
       }
     },
     {
-      "key": "³õÖĞ¿ÎÌÃ",
-      "name": "??³õÖĞ©§¿ÎÌÃ",
+      "key": "åˆä¸­è¯¾å ‚",
+      "name": "ğŸ“šåˆä¸­â”ƒè¯¾å ‚",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -739,12 +739,12 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/³õÖĞ¿ÎÌÃ.json"
+        "json": "./lib/åˆä¸­è¯¾å ‚.json"
       }
     },
     {
-      "key": "¸ßÖĞ½ÌÓı",
-      "name": "??¸ßÖĞ©§¿ÎÌÃ",
+      "key": "é«˜ä¸­æ•™è‚²",
+      "name": "ğŸ“šé«˜ä¸­â”ƒè¯¾å ‚",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -755,16 +755,16 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/¸ßÖĞ¿ÎÌÃ.json"
+        "json": "./lib/é«˜ä¸­è¯¾å ‚.json"
       }
     }
 
 
   ],
-  "wallpaper": "https://ÉîÉ«±ÚÖ½.xxooo.cf/",
+  "wallpaper": "https://æ·±è‰²å£çº¸.xxooo.cf/",
   "lives": [
     {
-      "name": "ÀÏÀîÓ°ÊÓ",
+      "name": "æŒºå¥½åˆ†äº«",
       "type": 0,
       "url": "./tv/thtv.txt",
       "playerType": 1
@@ -777,7 +777,7 @@
       "logo": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
     },
     {
-      "name": "IPV6¢Ù",
+      "name": "IPV6â‘ ",
       "type": 0,
       "url": "./lib/Gather.m3u",
       "playerType": 1
